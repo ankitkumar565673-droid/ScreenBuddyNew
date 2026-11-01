@@ -1,0 +1,6 @@
+{
+  "name": "ScreenBuddy",
+  "description": "Privacy-first AI screen companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
